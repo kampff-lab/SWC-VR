@@ -10,10 +10,17 @@ github_username:  kampff-lab
 plugins:
   - jekyll-seo-tag
 
+include:
+  - _pages
+  - _slides
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - "**README.md"
+
+header_pages:
+  - _pages/slides.md
 
 collections:
   # Ideally we would use collections for slides but this

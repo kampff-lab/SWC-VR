@@ -1,0 +1,24 @@
+title: SWC VR
+author: Kampff Lab
+description: A virtual and mixed reality suite for experimental psychophysics.
+theme: minima
+baseurl: "/swc-vr"
+
+twitter_username: KampffLab
+github_username:  kampff-lab
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - "**README.md"
+
+collections:
+  # Ideally we would use collections for slides but this
+  # breaks reveal.js markdown processing because of issue:
+  # https://github.com/jekyll/jekyll/issues/6209
+  # slides:
+  #   output: true
+  #   permalink: /:collection/:path/

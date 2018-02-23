@@ -139,7 +139,7 @@ A sustained, real-time, interactive perceptual illusion
     </th>
     <th width="50%" align="center">
       <div>
-        <img alt="Lory soldering" src="../../assets/images/lory-soldering.jpg" height="200"/>
+        <img alt="J calibrating" src="../../assets/images/j-calibrating.jpg" height="200"/>
         <p>Joana Nogueira</p>
       </div>
       </div>

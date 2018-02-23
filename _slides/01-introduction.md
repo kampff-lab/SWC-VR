@@ -4,11 +4,10 @@ title: Introduction
 permalink: /slides/introduction/
 ---
 
-<section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
+<section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$" data-background-image="../../assets/images/swc-vr.jpg">
 <script type="text/template">
 
 ## The Reality of VR
-![SWC VR](../../assets/images/swc-vr.svg)
 
 [kampff-lab.github.io/swc-vr](https://kampff-lab.github.io/swc-vr/)
 
@@ -21,7 +20,11 @@ permalink: /slides/introduction/
   </tr>
 </table>
 
----
+</script>
+</section>
+
+<section data-markdown data-separator="^\n---\n$" data-separator-vertical="^\n--\n$">
+<script type="text/template">
 
 ## What is Virtual Reality?
 

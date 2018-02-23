@@ -150,5 +150,15 @@ A sustained, real-time, interactive perceptual illusion
   </tr>
 </table>
 
+---
+
+## The SWC VR Room
+
+<p>
+<img alt="Psychophysics Suite GitHub" src="../../assets/images/vr-room.jpg" height="400"/>
+<br><b>Where:</b> B1 - Psychophysics Suite B103 
+<br>Join us?
+</p>
+
 </script>
 </section>

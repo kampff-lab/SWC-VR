@@ -67,6 +67,8 @@ A sustained, real-time, interactive perceptual illusion
 
 --
 
+### Consumer grade VR systems
+
 <table style="width: 100%;">
   <tr>
     <th width="50%" align="center">
@@ -112,6 +114,38 @@ A sustained, real-time, interactive perceptual illusion
 <img alt="Vive" src="../../assets/images/lighthouse.gif" height="360"/>
 
 <p style="display: block;">Visualization of basestation sweeps</p>
+
+---
+
+---
+
+### Low-cost, Scalable, 3D Positioning
+
+<img alt="Vive" src="../../assets/images/hive-tracker.jpg" height="360"/>
+
+<p style="display: block;"><a href="https://hivetracker.github.io/">hivetracker.github.io</a></p>
+<p style="display: block;"><small>with Darío R. Quiñones, Danbee Kim, and Cédric Honnet</small></p>
+
+---
+
+## Special Thanks
+
+<table style="width: 100%;">
+  <tr>
+    <th width="50%" align="center">
+      <div>
+        <img alt="Lory soldering" src="../../assets/images/lory-soldering.jpg" height="200"/>
+        <p>Lorenza Calcaterra</p>
+    </th>
+    <th width="50%" align="center">
+      <div>
+        <img alt="Lory soldering" src="../../assets/images/lory-soldering.jpg" height="200"/>
+        <p>Joana Nogueira</p>
+      </div>
+      </div>
+    </th>
+  </tr>
+</table>
 
 </script>
 </section>
